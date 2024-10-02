@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://woouqt.github.io/vAd/sitemap.vAd.gz
